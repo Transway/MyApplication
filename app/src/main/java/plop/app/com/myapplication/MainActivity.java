@@ -14,9 +14,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
 
-        System.out.println("coucou");
-        int i = 0;
-        System.out.println(i);
+        System.out.println("modif en local , bug -> back onlive vers : pull");
     }
 
 
